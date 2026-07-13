@@ -1,11 +1,11 @@
-##**Mounika Margani**
+## **Mounika Margani**
 
 B.Tech Computer Science Engineering Student  
 Passionate about Software Development, Full Stack Development, and Artificial Intelligence  
 
 I enjoy building projects that solve real-world problems and continuously improving my skills in programming, web technologies, and machine learning.
 
-#**Technical Skills**
+# **Technical Skills**
 
 Programming Languages
 - Java
@@ -23,7 +23,7 @@ Machine Learning
 - Pandas
 - NumPy
 
-#**Featured Projects**
+# **Featured Projects**
 
 Preserve Local Arts
 A web platform designed to showcase and preserve traditional arts by connecting technology with cultural heritage.
@@ -38,14 +38,14 @@ Tech Stack: Python | Scikit-learn | Pandas
 Open Innovation Simulator
 A hackathon project focused on creating innovative solutions through technology and problem-solving.
 
-#**Area of interests**
+# **Area of interests**
 
 - Data Structures and Algorithms
 - Full Stack Development
 - Machine Learning Applications
 - Building scalable web applications
 
-#**Let's Connect**
+# **Let's Connect**
 
 - LinkedIn: https://www.linkedin.com/in/mounika-margani-313276335/
 - GitHub: Check out my projects and work
