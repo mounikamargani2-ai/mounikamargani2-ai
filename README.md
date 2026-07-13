@@ -10,7 +10,7 @@ I enjoy building projects that solve real-world problems and continuously improv
 **Programming Languages**
 - Java
 - Python
-- C++
+- C
 - SQL
 
 **Web Technologies**
