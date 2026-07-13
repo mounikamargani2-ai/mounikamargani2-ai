@@ -25,17 +25,17 @@ Machine Learning
 
 ## **Featured Projects**
 
-Preserve Local Arts
+-Preserve Local Arts
 A web platform designed to showcase and preserve traditional arts by connecting technology with cultural heritage.
 
 Next.js | Firebase | JavaScript
 
-Machine Learning Projects
+-Machine Learning Projects
 A collection of machine learning implementations covering algorithms such as Logistic Regression, KNN, Decision Trees, and more.
 
 Tech Stack: Python | Scikit-learn | Pandas
 
-Open Innovation Simulator
+-Open Innovation Simulator
 A hackathon project focused on creating innovative solutions through technology and problem-solving.
 
 ## **Area of interests**
