@@ -1,4 +1,4 @@
-**Hi, I'm Mounika **
+Hi, I'm Mounika 
 
 B.Tech Computer Science Engineering Student  
 Passionate about Software Development, Full Stack Development, and Artificial Intelligence  
